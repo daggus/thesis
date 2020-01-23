@@ -1,5 +1,6 @@
 # thesis
 
+Research Exercise: Literature Review (Chicago Citations)
 Peschel, Lisa. *Performing Captivity, Performing Escape: Cabarets and Plays from the Terezín / Theresienstadt Ghetto.* Calcutta: Seagull Books, 2014. 
 
 Webb, Chris, and Chocholatý Michal. *The Treblinka Death Camp: History, Biographies, Remembrance.* Stuttgart: Ibidem, 2014.
