@@ -1,5 +1,9 @@
 # thesis
 
+!Thesis 01](Thesis01.png)
+!Thesis 02](Thesis02.png)
+
+
 # I’m visualizing data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
 
 ## Evidence
