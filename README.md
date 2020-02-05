@@ -31,10 +31,8 @@
 * Infrastructure
 * Expections vs reality
 
-## Partnership: Smithsonian Natural Museum of Natural History
-* 
-* 
-* 
+## Partnerships
+* Smithsonian Natural Museum of Natural History
 
 ## Interviews
 * Josh Bell
@@ -55,8 +53,9 @@
 * Giving structure to intuitive processes
 
 ## Interviews
-* 
-* 
+* Fung Chern Hwei
+* Baba Israel
+* Jay Painter
 * 
 
 ## Forms
@@ -69,12 +68,10 @@
 * Bio
 * Body tracking
 * Slitscan
+* Sounds
 
-### Sounds
+## Interviews
 
-### Interviews
-
-*XMind: ZEN - Trial Version*
 Research Exercise: Literature Review (Chicago Citations)
 
 Peschel, Lisa. *Performing Captivity, Performing Escape: Cabarets and Plays from the Terezín / Theresienstadt Ghetto.* Calcutta: Seagull Books, 2014. 
