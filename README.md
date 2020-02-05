@@ -23,71 +23,52 @@
 
 ## Topics
 
-### Cellphones
-
-### Language: presentation and evolution
-
-### Effect on identity over time
-
-### Earth/mineral Stories
-
-### Data inequality
-
-### Infrastructure
-
-### Expections vs reality
+* Cellphones
+* Language: presentation and evolution
+* Effect on identity over time
+* Earth/mineral Stories
+* Data inequality
+* Infrastructure
+* Expections vs reality
 
 ## Partnership: Smithsonian Natural Museum of Natural History
+* 
+* 
+* 
 
 ## Interviews
+* Josh Bell
 
-### Josh Bell
-
-*XMind: ZEN - Trial Version*
 
 # I’m visualizing performative data because I want to create a visual system that transposes music/movement into a language that audiences can understand
 
 ## Personal
-
-### A tool I can use in live performance
-
-### Qualitative AND Quantitative
+* A tool I can use in live performance
+* Qualitative AND Quantitative
 
 ## Ideas
-
-### Decision tree of improvisation?
-
-### Where do ideas comes from?
-
-### Using existing art to create more art
-
-### Artifacts are unique/personal to the artist being interpreted.
-
-### I would like to better understand my own processes
-
-### Comparing different forms
-
-### Giving structure to intuitive processes
+* Decision tree of improvisation?
+* Where do ideas comes from?
+* Using existing art to create more art
+* Artifacts are unique/personal to the artist being interpreted.
+* I would like to better understand my own processes
+* Giving structure to intuitive processes
 
 ## Interviews
+* 
+* 
+* 
 
 ## Forms
-
-### Music
-
-### Drama
-
-### Dance
-
-### Comedy
+* Music
+* Drama
+* Dance
+* Comedy
 
 ## Data
-
-### Bio
-
-### Body tracking
-
-### Slitscan
+* Bio
+* Body tracking
+* Slitscan
 
 ### Sounds
 
