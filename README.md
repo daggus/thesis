@@ -6,18 +6,20 @@
 # I’m visualizing data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
 
 ## Evidence
+*
+*
+*
 
 ## Goals
-
-### Help SI team to identify and understand stories
-
-### Designing for millennials
-
-### Accuracy
-
-### Scientifically driven
+* Help SI team to identify and understand stories
+* Designing for millennials
+* Accuracy
+* Scientifically driven
 
 ## References/resources
+* 
+* 
+* 
 
 ## Topics
 
