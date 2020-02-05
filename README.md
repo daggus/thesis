@@ -1,7 +1,6 @@
 # thesis
 
-# I’m visualizing 
-data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
+# I’m visualizing data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
 
 ## Evidence
 
@@ -41,8 +40,7 @@ data inequality because I want to expose how corporate and political entities be
 
 *XMind: ZEN - Trial Version*
 
-# I’m visualizing 
-performative data because I want to create a visual system that transposes music/movement into a language that audiences can understand
+# I’m visualizing performative data because I want to create a visual system that transposes music/movement into a language that audiences can understand
 
 ## Personal
 
