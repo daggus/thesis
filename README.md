@@ -3,7 +3,7 @@
 ![Image of thesis02](https://github.com/daggus/thesis/blob/master/Thesis02.png)
 
 
-# I’m visualizing data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
+## I’m visualizing data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
 
 ## Evidence
 *
@@ -38,7 +38,7 @@
 * Josh Bell
 
 
-# I’m visualizing performative data because I want to create a visual system that transposes music/movement into a language that audiences can understand
+## I’m visualizing performative data because I want to create a visual system that transposes music/movement into a language that audiences can understand
 
 ## Personal
 * A tool I can use in live performance
