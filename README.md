@@ -2,6 +2,7 @@
 ![Image of thesis01](https://github.com/daggus/thesis/blob/master/Thesis01.png)
 ![Image of thesis02](https://github.com/daggus/thesis/blob/master/Thesis02.png)
 
+https://docs.google.com/document/d/1M56jtxlTbCn9adWbG3l59qcMQRfLgJSo7nquXH93zVs/edit?usp=sharing
 
 ## I’m visualizing data inequality because I want to expose how corporate and political entities benefit from controlling access to data.
 
