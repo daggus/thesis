@@ -24,6 +24,7 @@ The experience will likely be browser-based and touchscreen compatible.The proje
 I’d like the audience/users to walk away with clarity about the history of emojis. Where they came from, how they evolved visually, how their meaning has changed, and what agencies/platforms have a stake in shaping that conversation.
 
 ![Wireframe](Exercise-2-Form.jpg)
+![System Map](System-Map-Emoji.png)
 
 
 
