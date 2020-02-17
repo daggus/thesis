@@ -23,10 +23,11 @@ The experience will likely be browser-based and touchscreen compatible.The proje
 
 I’d like the audience/users to walk away with clarity about the history of emojis. Where they came from, how they evolved visually, how their meaning has changed, and what agencies/platforms have a stake in shaping that conversation.
 
+![Wireframe](https://github.com/daggus/thesis/Exercise-2-Form.jpg)
 
-# A Visual Guide to Emojis
 
-## Concept
+
+# Concept: A Visual Guide to Emojis
 
 I’m researching the evolving visual language of emoji from their origin in Japan in 1999 as tool for clearly and succinctly conveying information to a method for conveying subtext and ultimately to a semiotic language with it’s own character, meaning and function. I’m interested in surfacing the unseen dialog and history of emojis; where they came from, how both their representation and meaning have changed. How have the uses and meanings of emoji evolved over time? How did the original set of emoji, which avoided the presentations of people, become a flashpoint of diversity debate? 
 
@@ -228,8 +229,6 @@ I’m visualizing performative data because I want to create a visual system tha
 
 ### References
 
-
-
 *   [http://www.flong.com/](http://www.flong.com/)
 *   [http://www.flong.com/texts/lists/slit_scan/](http://www.flong.com/texts/lists/slit_scan/)
 *   Rudolph Laban
@@ -266,12 +265,7 @@ I’m visualizing performative data because I want to create a visual system tha
 *   I would like to better understand my own processes
 *   Giving structure to intuitive processes
 
-
 ### Partnerships
-
-
-
-*   
 
 
 ### Interviews
