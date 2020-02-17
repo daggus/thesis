@@ -1,6 +1,3 @@
-# Thesis Notes
-
-
 # Exercise 2: Form
 
 
