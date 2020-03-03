@@ -1,5 +1,25 @@
 # Exercise 2: Form
 
+## Prototyping
+###Emoji Clock
+![Wireframe](EmojiClock01.png)
+
+###Emoji Map
+![Wireframe](EmojiMap01-01.png)
+![Wireframe](EmojiMap01-02.png)
+![Wireframe](EmojiMap01-03.png)
+
+###Emoji Photobooth
+![Wireframe](EmojiPhotoBooth-01.png)
+![Wireframe](EmojiPhotoBooth-02.png)
+![Wireframe](EmojiPhotoBooth-03.png)
+![Wireframe](EmojiPhotoBooth-04.png)
+![Wireframe](EmojiPhotoBooth-05.png)
+![Wireframe](EmojiPhotoBooth-06.png)
+![Wireframe](EmojiPhotoBooth-07.png)
+![Wireframe](EmojiPhotoBooth-08.png)
+![Wireframe](EmojiPhotoBooth-09.png)
+
 
 ## Audience
 
