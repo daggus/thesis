@@ -2,12 +2,12 @@
 
 ## Prototyping
 ### Emoji Clock
-Additional features: the ability to see look back at previous dates. 
+Additional features: the ability to see look back at previous dates. Need to indicate states for days and dates that are in the future. Does this reflect actual emoji use or sentiment analysis interpreted as emojis?
 
 ![Wireframe](EmojiClock01.png)
 
 ### Emoji Map
-Updates in realtime. Visualization actual emoji use or sentinent analysis converted to emoji?
+Updates in realtime. The can layer the various filters. This may need to come with a seizure warning. Visualization actual emoji use or sentinent analysis converted to emoji?
 
 ![Wireframe](EmojiMap01-01.png)
 ![Wireframe](EmojiMap01-02.png)
