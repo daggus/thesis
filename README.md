@@ -2,14 +2,20 @@
 
 ## Prototyping
 ### Emoji Clock
+Additional features: the ability to see look back at previous dates. 
+
 ![Wireframe](EmojiClock01.png)
 
 ### Emoji Map
+Updates in realtime. Visualization actual emoji use or sentinent analysis converted to emoji?
+
 ![Wireframe](EmojiMap01-01.png)
 ![Wireframe](EmojiMap01-02.png)
 ![Wireframe](EmojiMap01-03.png)
 
 ### Emoji Photobooth
+Missing: a clear visualization of which version of the emoji users prefereed. Also, possibly user generated emoji or bitmoji? Both? There's some uncanny valley at work here. 
+
 ![Wireframe](EmojiPhotoBooth-09.png)
 ![Wireframe](EmojiPhotoBooth-01.png)
 ![Wireframe](EmojiPhotoBooth-02.png)
