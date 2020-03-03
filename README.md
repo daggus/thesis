@@ -17,8 +17,8 @@
 ![Wireframe](EmojiPhotoBooth-04.png)
 ![Wireframe](EmojiPhotoBooth-05.png)
 ![Wireframe](EmojiPhotoBooth-06.png)
-![Wireframe](EmojiPhotoBooth-07.png)
 ![Wireframe](EmojiPhotoBooth-08.png)
+![Wireframe](EmojiPhotoBooth-07.png)
 
 
 ## Audience
