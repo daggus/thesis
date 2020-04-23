@@ -1,6 +1,9 @@
 # Exercise 2: Form
 
 ## Revised wireframes as a response to the pandemic and guest feedback
+![Wireframe](EmojiClock03-02.jpg)
+![Wireframe](EmojiClock03-01.png)
+![Wireframe](EmojiClock03-03.jpg)
 
 
 ## Prototyping
