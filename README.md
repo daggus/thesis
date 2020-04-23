@@ -1,5 +1,8 @@
 # Exercise 2: Form
 
+## Revised wireframes as a response to the pandemic and guest feedback
+
+
 ## Prototyping
 ### Emoji Clock
 Additional features: the ability to see look back at previous dates. Need to indicate states for days and dates that are in the future. Does this reflect actual emoji use or sentiment analysis interpreted as emojis? Live updates? How to visualize the long arc, patterns across time?
